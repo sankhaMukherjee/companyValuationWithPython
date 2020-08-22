@@ -1,7 +1,5 @@
 # Company Valuation With Python
 
-# theMarketDuringCovic
-
 This is a set of Jupyter Notebooks that may be used for
 replicating the examples within the Medium article, 
 [Company Valuation With Python]().
