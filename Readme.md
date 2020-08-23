@@ -16,7 +16,6 @@ of packages needed for the build are:
 3. `matplotlib` : for all the plotting examples
 4. `jupyter` : for the Notebooks of course
 5. `financeMacroFactors` : Used for downloading fundamental and other stock data
-6. `tqdm` : A simple progress bar
 
 ### Installing `financeMacroFactors`
 
