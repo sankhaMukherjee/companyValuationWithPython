@@ -37,7 +37,7 @@ Each Notebook covers a different Section within the article ...
 | 1   | 4.1.        | DFE            | [Discounted Future Earnings](https://github.com/sankhaMukherjee/companyValuationWithPython/blob/master/Discounted%20Future%20Earnings.ipynb)
 | 2   | 4.2.        | DCF            | [Discounted Cash Flow](https://github.com/sankhaMukherjee/companyValuationWithPython/blob/master/Discounted%20Cash%20Flow.ipynb)
 | 3   | 4.3.        | P/S            | [Price to Sales Ratio](https://github.com/sankhaMukherjee/companyValuationWithPython/blob/master/Price%20to%20Sales%20Ratio.ipynb)
-| 4   | 4.4.        | P/E            | 
+| 4   | 4.4.        | P/E            | [Price to Earnings Ratio](https://github.com/sankhaMukherjee/companyValuationWithPython/blob/master/Price%20to%20Earnings%20Ratio.ipynb)
 
 
 ## Others
