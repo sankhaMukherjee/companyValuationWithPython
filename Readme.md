@@ -40,6 +40,11 @@ Each Notebook covers a different Section within the article ...
 | 4   | 4.4.        | P/E            | [Price to Earnings Ratio](https://github.com/sankhaMukherjee/companyValuationWithPython/blob/master/Price%20to%20Earnings%20Ratio.ipynb)
 
 
+An extra Notebook is present [Valuation - Using the Library](https://github.com/sankhaMukherjee/companyValuationWithPython/blob/master/Valuation%20-%20Using%20the%20Library.ipynb)
+that uses the build-in functions within the `financeMacroFactors` library to
+obtain the value of the valuation using all valuation methods.
+
+
 ## Others
 
 If you encounter any problem, please create an issue using the issue tracker.
